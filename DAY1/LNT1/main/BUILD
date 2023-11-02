@@ -1,5 +1,5 @@
 load("@rules_cc//cc:defs.bzl", "cc_binary")
 cc_binary(
-    name ="hello_world",
+    name ="hello_world!!",
     srcs = ["hello-world.cc"],
 )
